@@ -1,3 +1,4 @@
 *.log
 *.tmp
 build/.DS_Store
+temp.log
